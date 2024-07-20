@@ -1,1 +1,3 @@
 Inefficient handling of user-reported issues such as login failures and malfunctioning features can significantly disrupt the intended user experience of an application. To address this challenge, a systematic issue tracking and resolution system is essential. Bug Tracking System aims to develop and implement such a system to ensure a seamless user journey. The proposed system involves categorizing bug types based on the bugs severity(priority) based on predefined criteria, fostering communication and collaboration within the development team. 
+![image](https://github.com/user-attachments/assets/f6726383-1a55-4af7-877a-b164273bcfee) 
+Login page
