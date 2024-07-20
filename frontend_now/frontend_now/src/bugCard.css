@@ -1,0 +1,48 @@
+.edit-options {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    row-gap: 20px;
+    padding: 20px;
+    color: #45a049;
+    background-color: var(--prim-color);
+}
+
+.edit-options label {
+    font-weight: bold;
+}
+
+.edit-options input,
+.edit-options textarea,
+.edit-options select {
+    width: 100%;
+    padding: 8px;
+    color: black;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: white;
+
+}
+
+.edit-options button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #ef6c57;
+    color: #ef6c57;
+    border: none;
+    cursor: pointer;
+}
+
+.edit-options button:hover {
+    background-color: #45a049;
+}
+
+.edit-options .ui.button.black {
+    background-color: #555;
+}
+
+.edit-options .ui.button.black:hover {
+    background-color: #444;
+}
+.edit-options .col{
+    text-align: center;
+}
